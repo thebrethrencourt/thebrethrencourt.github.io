@@ -1,2 +1,3 @@
 # thebrethrencourt.github.io
-hi
+HI MOM
+this is stuff.
